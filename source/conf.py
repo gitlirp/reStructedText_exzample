@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-
+import sphinx_rtd_theme
 project = 'reStructedTest exzamples'
 copyright = '2020, lirp'
 author = 'lirp'
